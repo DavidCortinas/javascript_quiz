@@ -1,0 +1,3 @@
+[submodule "js_copy"]
+	path = js_copy
+	url = ./quiz.js
